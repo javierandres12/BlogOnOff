@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1035255908709",
+    "project_id": "blogapp-298d1",
+    "storage_bucket": "blogapp-298d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035255908709:android:57cca3a5fd4b29ed33b98c",
+        "android_client_info": {
+          "package_name": "com.javier96.blogonoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035255908709-80de992hkiq62k7fqep7scj1qb7bvs1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javier96.blogonoff",
+            "certificate_hash": "40f372aee08593082a5fe2ab1c18c87325e8cf5c"
+          }
+        },
+        {
+          "client_id": "1035255908709-kpf43cm523u3t9uffbc6405f7pmq2nt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javier96.blogonoff",
+            "certificate_hash": "802c05458d57c565b48e5949c26d62d6ab8cb50c"
+          }
+        },
+        {
+          "client_id": "1035255908709-sd9g1lfl2nbaekaurm5vmqajrt6bg597.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javier96.blogonoff",
+            "certificate_hash": "8ddd142480a181d742ee01b088dd05c6aa133fa5"
+          }
+        },
+        {
+          "client_id": "1035255908709-t9s7v056kogrkfl0bf84rd5ctjnf2o88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh9DYqEieL5SOs-EPSFTX7nT3xoXO1oUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035255908709-t9s7v056kogrkfl0bf84rd5ctjnf2o88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
